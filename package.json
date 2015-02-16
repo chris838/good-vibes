@@ -37,5 +37,8 @@
     "through2": "^0.6.3",
     "vinyl": "^0.4.6",
     "wiredep": "^2.0.0"
+  },
+  "dependencies": {
+    "wiredep": "^2.2.2"
   }
 }
